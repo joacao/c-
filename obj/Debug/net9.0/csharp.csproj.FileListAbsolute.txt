@@ -12,3 +12,4 @@ C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\refint\csharp.dll
 C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\csharp.pdb
 C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\csharp.genruntimeconfig.cache
 C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\ref\csharp.dll
+C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\csharp.sourcelink.json
