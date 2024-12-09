@@ -1,0 +1,14 @@
+C:\Users\Henrique\Documents\Alura\csharp\bin\Debug\net9.0\csharp.exe
+C:\Users\Henrique\Documents\Alura\csharp\bin\Debug\net9.0\csharp.deps.json
+C:\Users\Henrique\Documents\Alura\csharp\bin\Debug\net9.0\csharp.runtimeconfig.json
+C:\Users\Henrique\Documents\Alura\csharp\bin\Debug\net9.0\csharp.dll
+C:\Users\Henrique\Documents\Alura\csharp\bin\Debug\net9.0\csharp.pdb
+C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\csharp.AssemblyInfoInputs.cache
+C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\csharp.AssemblyInfo.cs
+C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\csharp.dll
+C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\refint\csharp.dll
+C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\csharp.pdb
+C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\csharp.genruntimeconfig.cache
+C:\Users\Henrique\Documents\Alura\csharp\obj\Debug\net9.0\ref\csharp.dll
